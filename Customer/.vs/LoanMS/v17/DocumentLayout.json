@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CT\\Customers\\Customer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|d:\\ct\\customers\\customer\\customer\\forms\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|solutionrelative:customer\\forms\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\Customer.csproj|D:\\CT\\Customers\\Customer\\customer\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\Customer.csproj|solutionrelative:customer\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\Customer.csproj|D:\\CT\\Customers\\Customer\\customer\\data\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\Customer.csproj|solutionrelative:customer\\data\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|D:\\CT\\Customers\\Customer\\customer\\data\\addresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|solutionrelative:customer\\data\\addresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\Customer.csproj|D:\\CT\\Customers\\Customer\\customer\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\Customer.csproj|solutionrelative:customer\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\Customer.csproj|D:\\CT\\Customers\\Customer\\customer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\Customer.csproj|solutionrelative:customer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|D:\\CT\\Customers\\Customer\\customer\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|solutionrelative:customer\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|D:\\CT\\Customers\\Customer\\customer\\data\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|solutionrelative:customer\\data\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\Customer.csproj|D:\\CT\\Customers\\Customer\\customer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\Customer.csproj|solutionrelative:customer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LoanMS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|D:\\CT\\Customers\\Customer\\customer\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|solutionrelative:customer\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|D:\\CT\\Customers\\Customer\\customer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|solutionrelative:customer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|D:\\CT\\Customers\\Customer\\customer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|solutionrelative:customer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|D:\\CT\\Customers\\Customer\\customer\\oracle.dataaccess.common.configuration.section.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|solutionrelative:customer\\oracle.dataaccess.common.configuration.section.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|D:\\CT\\Customers\\Customer\\customer\\oracle.manageddataaccess.client.configuration.section.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|",
+      "RelativeMoniker": "D:0:0:{058A86E1-B8E2-4C18-B6C8-267D06FE46F7}|Customer\\LoanMS.csproj|solutionrelative:customer\\oracle.manageddataaccess.client.configuration.section.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CT\\Customers\\Customer\\packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerForm.Designer.cs",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\CustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "Customer\\Forms\\CustomerForm.Designer.cs",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\CustomerForm.Designer.cs",
+              "RelativeToolTip": "Customer\\Forms\\CustomerForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:10:22.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Addresses.cs",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Data\\Addresses.cs",
+              "RelativeDocumentMoniker": "Customer\\Data\\Addresses.cs",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Data\\Addresses.cs",
+              "RelativeToolTip": "Customer\\Data\\Addresses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:44:42.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "Customer\\Forms\\CustomerForm.cs",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\CustomerForm.cs",
+              "RelativeToolTip": "Customer\\Forms\\CustomerForm.cs",
+              "ViewState": "AQIAABIBAAAAAAAAAAAcwBsBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:27:38.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Data\\Customers.cs",
+              "RelativeDocumentMoniker": "Customer\\Data\\Customers.cs",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Data\\Customers.cs",
+              "RelativeToolTip": "Customer\\Data\\Customers.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:35:49.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "Customer\\Forms\\CustomerForm.cs",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "Customer\\Forms\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:00:13.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Data\\Connection.cs",
+              "RelativeDocumentMoniker": "Customer\\Data\\Connection.cs",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Data\\Connection.cs",
+              "RelativeToolTip": "Customer\\Data\\Connection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:55:56.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Customer\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Customer\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:31:31.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Customer\\Models\\Address.cs",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Models\\Address.cs",
+              "RelativeToolTip": "Customer\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:44:59.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Customer\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Customer\\Forms\\MainForm.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAmwIkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:17:01.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\App.config",
+              "RelativeDocumentMoniker": "Customer\\App.config",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\App.config",
+              "RelativeToolTip": "Customer\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-26T02:25:38.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoanMS",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\LoanMS.csproj",
+              "RelativeDocumentMoniker": "Customer\\LoanMS.csproj",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\LoanMS.csproj",
+              "RelativeToolTip": "Customer\\LoanMS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-26T03:23:03.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Program.cs",
+              "RelativeDocumentMoniker": "Customer\\Program.cs",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Program.cs",
+              "RelativeToolTip": "Customer\\Program.cs",
+              "ViewState": "AQIAAA8AAADgzMzMzIwnwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T02:24:19.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Customer\\Forms\\MainForm.Designer.cs",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "Customer\\Forms\\MainForm.Designer.cs",
+              "ViewState": "AQIAAGoBAACAMzMzM7MTwHUBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:00:41.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Oracle.DataAccess.Common.Configuration.Section.xsd [Design]",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\customer\\Oracle.DataAccess.Common.Configuration.Section.xsd",
+              "RelativeDocumentMoniker": "customer\\Oracle.DataAccess.Common.Configuration.Section.xsd",
+              "ToolTip": "d:\\ct\\customers\\customer\\customer\\Oracle.DataAccess.Common.Configuration.Section.xsd [Design]",
+              "RelativeToolTip": "customer\\Oracle.DataAccess.Common.Configuration.Section.xsd [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-04-26T02:25:36.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Oracle.ManagedDataAccess.Client.Configuration.Section.xsd [Design]",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\Customer\\Oracle.ManagedDataAccess.Client.Configuration.Section.xsd",
+              "RelativeDocumentMoniker": "Customer\\Oracle.ManagedDataAccess.Client.Configuration.Section.xsd",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\Customer\\Oracle.ManagedDataAccess.Client.Configuration.Section.xsd [Design]",
+              "RelativeToolTip": "Customer\\Oracle.ManagedDataAccess.Client.Configuration.Section.xsd [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-04-26T02:25:32.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "readme.txt",
+              "DocumentMoniker": "D:\\CT\\Customers\\Customer\\packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt",
+              "ToolTip": "D:\\CT\\Customers\\Customer\\packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt",
+              "RelativeToolTip": "packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-26T01:07:58.294Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
